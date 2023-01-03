@@ -10,11 +10,9 @@ The main requirements are [pytorch](http://pytorch.org/) (`v0.4.0`) and python `
 ## Get started
 1. Download preprocessed datasets
 ```bash
-git clone https://github.com/KaiyangZhou/pytorch-vsumm-reinforce
+git clone https://github.com/DeepakSingh260/video-skimming.git
 cd pytorch-vsumm-reinforce
-# download datasets.tar.gz (173.5MB)
-wget http://www.eecs.qmul.ac.uk/~kz303/vsumm-reinforce/datasets.tar.gz
-tar -xvzf datasets.tar.gz
+
 ```
 
 **Updates**: The QMUL server is inaccessible. Download the datasets from this [google drive link](https://drive.google.com/open?id=1Bf0beMN_ieiM3JpprghaoOwQe9QJIyAN).
